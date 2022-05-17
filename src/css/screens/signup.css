@@ -1,0 +1,68 @@
+#signid{
+    padding-top:25px;
+    margin-bottom: 5%
+}
+
+#topline{
+    margin-bottom: 5%;
+    font-size: 17px;
+}
+
+.main{
+    margin-top:75px; 
+    padding-left: 0;
+    background-color:cornflowerblue;
+    text-align: center;
+    width: 30%;
+    margin-left: 35%;
+    border:3px solid black;
+    border-radius: 4%;
+}
+
+.form-control{
+    padding:2%;
+    margin:1% 10%;
+    text-align:center;
+    width: 75%;
+    border-radius: 10px;
+    background-color:#b8b4b4;
+    border: 2px solid black;
+    box-shadow:1px 1px 1px black;
+}
+#fullname:hover{
+    background-color: white;
+}
+
+::placeholder{
+    color:black;
+    border-radius: 10px;
+}
+
+#email:hover{
+    background-color: white;
+}
+
+#pass:hover{
+    background-color: white;
+}
+
+#cnfpass:hover{
+    background-color: white;
+}
+#btn{
+    margin:17px 17px;
+    padding:5px;
+    border-radius: 10px;
+}
+
+#btn:hover{
+    color:white;
+    background-color: black;
+    font-size: 110%;
+}
+
+#alreadyacc{
+    margin:7%;
+}
+
+

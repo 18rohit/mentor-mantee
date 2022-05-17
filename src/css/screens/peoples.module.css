@@ -1,0 +1,8 @@
+.infocard{
+    width: 90%;
+    border-radius: 5%;
+    background-color: grey;
+    box-shadow: 0 0 5px black;
+    padding: 5%;
+    color: red;
+}

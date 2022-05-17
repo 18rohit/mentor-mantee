@@ -1,0 +1,16 @@
+.h2text{
+    line-height: 125%;
+    font-size: 30px;
+    text-align: center;
+    color:black;
+}
+
+.maincontact{
+    padding: 15px;
+}
+
+.text{
+    line-height: 125%;
+    font-size: 15px;
+    text-align: center;
+}
